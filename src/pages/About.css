@@ -1,0 +1,26 @@
+.about {
+  max-width: 680px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.about h1 {
+  margin-bottom: 1rem;
+}
+
+.about h2 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.about ul {
+  padding-left: 1.5rem;
+}
+
+.about li {
+  margin-bottom: 0.5rem;
+}
+
+.about a {
+  color: #646cff;
+}
